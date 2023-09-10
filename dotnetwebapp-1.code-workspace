@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "VamshiWebApp.web/dotnetwebapp-1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"powershell.cwd": "e:\\VamshiWebApp\\VamshiWebApp.web\\dotnetwebapp-1"
+	}
+}
